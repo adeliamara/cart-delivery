@@ -1,0 +1,27 @@
+{
+  "name": "delivery-cart",
+  "version": "1.0.0",
+  "description": "Trabalho final da disciplina Progração Orientada a Objetos. Aplicação dos conhecimentos adquiridos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvitorr/delivery-cart.git"
+  },
+  "author": "Adélia Mara e Vitor Araujo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kvitorr/delivery-cart/issues"
+  },
+  "homepage": "https://github.com/kvitorr/delivery-cart#readme",
+  "devDependencies": {
+    "@types/pg": "^8.6.5",
+    "@types/prompt-sync": "^4.2.0",
+    "pg": "^8.8.0"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
